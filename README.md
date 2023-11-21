@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 ![](https://img.shields.io/badge/-HTML-E44F26?style=flat-rounded&logo=html5&logoColor=fff)
 ![](https://img.shields.io/badge/-CSS-1572B6?style=flat-rounded&logo=css3&logoColor=fff)
