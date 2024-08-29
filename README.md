@@ -13,3 +13,4 @@
 ![](https://img.shields.io/badge/-Kotlin-CF20BC?style=flat-rounded&logo=kotlin&logoColor=fff)
 ![](https://img.shields.io/badge/-Flutter-54C4F8?style=flat-rounded&logo=flutter&logoColor=fff)
 ![](https://img.shields.io/badge/-Java-ED2025?style=flat-rounded&logo=.&logoColor=fff)
+![](https://img.shields.io/badge/-GLUA-8A2BE2?style=flat-rounded&logo=.&logoColor=fff)
